@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OjasWadhwani
+- 👋 Hi, I’m Ojas.
 - 👀 I’m interested in implementation, development and algorithms.
 - 🌱 I’m currently learning Ray Tracing from Peter Shirley books.
 - 💞️ I’m looking to collaborate on any cool open source stuff.
